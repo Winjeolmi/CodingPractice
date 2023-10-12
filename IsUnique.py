@@ -1,4 +1,4 @@
-#This is question 1.1
+# This is question 1.1
 
 word = input()
 word_set = set(word)
